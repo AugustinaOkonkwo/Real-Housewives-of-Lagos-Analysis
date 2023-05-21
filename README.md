@@ -1,5 +1,5 @@
-**Real Housewives of Lagos: An Analysis of Twitter's Perception**
-## **Introduction***
+# **Real Housewives of Lagos: An Analysis of Twitter's Perception**
+## **Introduction**
 This project aims to analyze the perception of the reality TV show "Real Housewives of Lagos" on Twitter. The analysis includes data gathering, data assessment and cleaning, data preprocessing, sentiment analysis, and data visualization.
 
 ## **Data Gathering**
