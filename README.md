@@ -20,4 +20,4 @@ The code generates a word cloud visualization to depict the most frequently occu
 ## **Conclusion**
 This code provides a framework for analyzing Twitter's perception of the Real Housewives of Lagos reality TV show. By gathering, cleaning, preprocessing, and analyzing the data, it offers insights into the sentiment and popular topics discussed on Twitter. The generated word cloud helps visualize the most common words associated with the show.
 
-Please note that the code provided is a snippet and may require additional modifications or integration into a larger project.
+
